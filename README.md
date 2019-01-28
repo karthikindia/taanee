@@ -38,9 +38,9 @@ As a safety feature, a failsafe mechanism is enabled by default. You can trigger
 Failsafe(False)
 ```
 
-## Automagica with Natural Language
+## taanee with Natural Language
 
-Wouldn't it be cool if we could write Robotic Process Automation scripts in plain ol' English rather than the already easy Python scripting language? Well it's possible with Automagica! We have cooked up a more human-friendly interface to get started with automation!
+Wouldn't it be cool if we could write Robotic Process Automation scripts in plain ol' English rather than the already easy Python scripting language? Well it's possible with taanee! We have cooked up a more human-friendly interface to get started with automation!
 
 ### How it works
 Natural language for taanee (.nla) looks like this:
@@ -210,7 +210,7 @@ For the `Type`-function to work, you need to set the "United States-Internationa
 
 
 ## Credits
-Under the hood, Automagica is built on some of the greatest open source libraries. Within Automagica, the following libraries are currently included:
+Under the hood, taanee is built on some of the greatest open source libraries. Within taanee, the following libraries are currently included:
 - [PyAutoGUI](https://github.com/asweigart/pyautogui)
 - [Selenium](https://github.com/baijum/selenium-python)
 - [PyWinAuto](https://github.com/pywinauto/pywinauto)
