@@ -9,7 +9,8 @@ The need of this program, when i faced issues in my work place for MS SQL DB Log
 
 I initially planned to write a vbscript to hook up with scheduled tasks or to use the ms sql jobs option to set a sql query to truncate sql logs
 
-Later then decided to go for GUI based solution, since my phd project is also related to Robotics Process Automation.
+Later then decided to go for GUI based solution, which will be user friendly for client and also to explore more for my phd project which is related to Robotics Process Automation also.
+
 I thought this program will be an example of robotic process which does not have any shape but any process that works automatic is artificial intelligence and robotic process automation, as most of them think the word robotic means a human like machine.
 
 I named if after the tamil word "தானி" (taanee) which means Automatic.
