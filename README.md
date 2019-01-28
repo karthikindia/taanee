@@ -51,9 +51,12 @@ search for oranges
 ```
 
 ## Example 1
-![](https://github.com/karthikindia/taanee/blob/master/assets/taanee_example1.gif)
+![](https://github.com/karthikindia/taanee/blob/master/assets/server_task.gif)
 
 ## Example 2
+![](https://github.com/karthikindia/taanee/blob/master/assets/taanee_example1.gif)
+
+## Example 3
 ![](https://github.com/karthikindia/taanee/blob/master/assets/taanee_example2.gif)
 
 ## Important notes
