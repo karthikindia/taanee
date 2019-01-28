@@ -18,4 +18,11 @@ Anyone benefit with this application please contribute to my major artificial in
 Due to time constrain this code was forked from automagica, roro and customised to my own needs.
 Thanks to automatiga and roro team
 
--   Alagappan Karthikeyan
+## Example 1
+![](https://github.com/karthikindia/taanee/blob/master/assets/taanee_example1.gif)
+
+## Example 2
+![](https://github.com/karthikindia/taanee/blob/master/assets/taanee_example2.gif)
+
+
+
