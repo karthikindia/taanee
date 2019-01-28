@@ -1,6 +1,8 @@
 # taanee
 # Robotic Autiomation Marco Scripts
 
+![](https://github.com/karthikindia/taanee/blob/master/assets/taanee.png)
+
 The purpose of this application is to automate routine tasks done System Admin/ Server Admin
 
 The need of this program, when i faced issues in my work place for MS SQL DB Logs full and the applications hanged.
