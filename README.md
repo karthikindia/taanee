@@ -15,7 +15,7 @@ I named if after the tamil word "தானி" (taanee) which means Automatic.
 Please feel free your ideas and any features for this application to my email id : me@karthik.sg
 Anyone benefit with this application please contribute to my major artificial intelligence project : www.thambi.ai
 
-Due to time constrain this code was forked from automagica and customised to my own needs.
-Thanks to automatiga team
+Due to time constrain this code was forked from automagica, roro and customised to my own needs.
+Thanks to automatiga and roro team
 
 -   Alagappan Karthikeyan
