@@ -1,5 +1,5 @@
 # taanee
-# Robotic Autiomation Marco Scripts
+# Robotic Automation Marco Scripts
 
 ![](https://github.com/karthikindia/taanee/blob/master/assets/taanee.png)
 
